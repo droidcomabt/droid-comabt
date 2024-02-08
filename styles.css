@@ -20,7 +20,7 @@
 body{
   margin: 0%;
     /* background-size: contain; */
-    font-family: 'coustom1';
+    font-family: 'Protest Guerrilla', sans-serif;
 }
 
 #myVideo {
@@ -100,7 +100,7 @@ h2{
 }
 
 h3{
-   font-family: 'coustom2';
+  font-family: 'Protest Guerrilla', sans-serif;
    font-size: 2rem;
    font-style: italic;
 }

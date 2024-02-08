@@ -4,23 +4,23 @@
 
 @font-face {
     font-family: 'coustom1';
-    src: url(/font/BlackWidowMovie-d95Rg.ttf);
+    src: url(font/BlackWidowMovie-d95Rg.ttf);
 }
 
 @font-face {
     font-family: 'coustom2';
-    src: url(/font/Impossible.ttf);
+    src: url(font/Impossible.ttf);
 }
 
 @font-face {
   font-family: 'space';
-  src: url(/font/SpaceCrusadersItalic-ZV1Zx.ttf);
+  src: url(font/SpaceCrusadersItalic-ZV1Zx.ttf);
 }
 
 body{
   margin: 0%;
     /* background-size: contain; */
-    font-family: 'Protest Guerrilla', sans-serif;
+    font-family: 'coustom1';
 }
 
 #myVideo {
@@ -100,7 +100,7 @@ h2{
 }
 
 h3{
-  font-family: 'Protest Guerrilla', sans-serif;
+  font-family: 'coustom2';
    font-size: 2rem;
    font-style: italic;
 }

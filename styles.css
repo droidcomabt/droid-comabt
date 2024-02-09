@@ -64,7 +64,7 @@ img{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 50%;
+    width: 90%;
     /* font-size: calc(20px + 18vh); */
     /* line-height: calc(20px + 20vh); */
   /*   text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
@@ -86,7 +86,6 @@ img{
 } */
 
 .heading{
-
   text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
   color: #fff6a9;
   animation: blink 12s infinite;
@@ -95,11 +94,13 @@ img{
 }
 
 h2{
+  width: 100%;
     font-size: 4rem;
     text-align: center;
 }
 
 h3{
+  width: 100%;
   font-family: 'coustom2';
    font-size: 2rem;
    font-style: italic;
@@ -292,7 +293,7 @@ margin: 3rem auto;
     padding: 20px;
     margin-top: 2em;
     background: rgba(0,0,0,.1);
-    height: 25em;
+    height: 20em;
   }
   
   .card-carousel {
@@ -376,8 +377,41 @@ margin: 3rem auto;
     background-image: url("images/pointbreak.png");
     background-color: #111;
   }
+  
   .card:nth-of-type(5) .image-container {
     background-image: url("images/quiz.png");
+    background-color: #111;
+  }
+  .card:nth-of-type(6) .image-container {
+    background-image: url("images/copyCat.png");
+    background-color: #111;
+  }
+  .card:nth-of-type(7) .image-container {
+    background-image: url("images/doodel.png");
+    background-color: #111;
+  }
+  .card:nth-of-type(8) .image-container {
+    background-image: url("images/ads.png");
+    background-color: #111;
+  }
+  .card:nth-of-type(9) .image-container {
+    background-image: url("images/leaflet.png");
+    background-color: #111;
+  }
+  .card:nth-of-type(10) .image-container {
+    background-image: url("images/craft.png");
+    background-color: #111;
+  }
+  .card:nth-of-type(11) .image-container {
+    background-image: url("images/LogoWiz_10122023_225533.png");
+    background-color: #111;
+  }
+  .card:nth-of-type(12) .image-container {
+    background-image: url("images/lca.png");
+    background-color: #111;
+  }
+  .card:nth-of-type(13) .image-container {
+    background-image: url("images/map.png");
     background-color: #111;
   }
   
@@ -409,7 +443,7 @@ margin: 3rem auto;
 
   .container{
     /* padding: 3rem; */
-    height: 38rem;
+    height: 29rem;
     font-family: 'space',sans-serif;
   }
 

@@ -569,3 +569,14 @@ margin: 3rem auto;
   /* .text .clone {
     /* padding: 2rem; 
   } */
+
+.location{
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+iframe{
+  border-radius: 5%;
+  box-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff3f3f, 0 0 10px #ff8d00, 0 0 98px #ff3c3c;
+}
